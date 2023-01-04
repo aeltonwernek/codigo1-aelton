@@ -1,4 +1,4 @@
-print('***Bem vindo a Loja do Aelton Wernek Mattos***') #Nome do aluno
+print('***Bem vindo a Loja do Aelton Wernek Mattos***') #Nome da loja
 valor_unidade = float(input('Entre com o valor do produto: ')) #
 valor_quantidade = int(input('Entre com o quantidade do produto: '))
 sub_total = float(valor_quantidade * valor_unidade) # Multiplica os valores recebidos pelo input.
